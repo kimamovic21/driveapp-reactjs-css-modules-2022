@@ -15,5 +15,11 @@
 15. u find folderu kreiramo novu Card.jsx komponentu
 16. u terminalu instaliramo swiper paket -> npm i swiper
 17. otvaramo i uredujemo Find.jsx komponentu i css fajl za Find.jsx komponentu
-18. 
-
+18. u src folderu kreiramo novi folder Drive
+19. u Drive folderu kreiramo Drive.jsx komponentu i css fajl za Drive.jsx komponentu
+20. otvaramo i uredujemo Driver.jsx komponentu
+21. U src folderu kreirmao Luxury.jsx komponentu i css fajl za Luxury.jsx komponentu
+22. otvaramo i uredujemo Luxury.jsx komponentu
+23. u src folderu kreiramo Footer folder
+24. u Footer folderu kreiramo Footer.jsx komponentu i css fajl za Footer.jsx komponentu
+25. 

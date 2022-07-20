@@ -72,8 +72,8 @@ form .icon {
     form {
         display: flex;
         flex-direction: column;
-        max-width: 100%;
-        margin: auto 1rem;
+        max-width: 90%;
+        margin: auto;
     }
 
     form .text, .from, .until {
@@ -126,6 +126,8 @@ form .icon {
     form .icon {
         display: none;
     }
+
+
 }
 
 
