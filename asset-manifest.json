@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/driveapp-reactjs-css-modules-2022/static/css/main.cf7d1566.css",
+    "main.js": "/driveapp-reactjs-css-modules-2022/static/js/main.5a3f673f.js",
+    "static/media/drive.png": "/driveapp-reactjs-css-modules-2022/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/driveapp-reactjs-css-modules-2022/index.html",
+    "main.cf7d1566.css.map": "/driveapp-reactjs-css-modules-2022/static/css/main.cf7d1566.css.map",
+    "main.5a3f673f.js.map": "/driveapp-reactjs-css-modules-2022/static/js/main.5a3f673f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7d1566.css",
+    "static/js/main.5a3f673f.js"
+  ]
+}
